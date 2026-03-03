@@ -11,7 +11,6 @@
 - 🎯 Currently improving DSA & System Design
 - 📚 Love exploring how things work under the hood — not just using them
 - 💬 I enjoy helping and mentoring developers whenever possible
-- 🧠 Preparing for Product-Based Frontend roles (React + Next.js ecosystem)
 
 ---
 
