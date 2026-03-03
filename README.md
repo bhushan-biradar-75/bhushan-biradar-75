@@ -8,7 +8,7 @@
 - ⚛️ Strong in **React.js, Next.js & JavaScript**
 - 🏗️ Built scalable applications in **Fintech & Automobile domain**
 - 💡 Passionate about clean architecture, system design & performance
-- 🎯 Currently improving DSA, system design & machine coding for product companies
+- 🎯 Currently improving DSA & System Design
 - 📚 Love exploring how things work under the hood — not just using them
 - 💬 I enjoy helping and mentoring developers whenever possible
 - 🧠 Preparing for Product-Based Frontend roles (React + Next.js ecosystem)
